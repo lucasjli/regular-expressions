@@ -1,5 +1,4 @@
-# COMPX575 - Task Three
-Due on **Friday the 14th of March at midday**
+# Regular expressions exercise
 
 # Task Goal
 * Practice writing and using regular expressions (using Python3).
@@ -13,9 +12,3 @@ Due on **Friday the 14th of March at midday**
 ### Instructions
 * Complete exercises one through ten by adding code to the appropriate place in your regex.py file.  
 * In each exercise, make sure to print the total number of matches.
-
-## Grading
-This assignment is worth as much as 5% of your final grade and is marked out of 10 (1 mark per exercise).
-
-## Submission
-Submit your Python code to your Git repository as well as to moodle.
